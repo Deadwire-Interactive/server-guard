@@ -18,4 +18,4 @@ You may submit a request on our [Community server](https://discord.gg/E6ep3rb7cQ
 #### 5. At-Will Privacy Policy Updates
 This privacy policy is at-will and may change at any time, with proper notice. Proper notice is defined as ~1 day, allowing time for communities to agree or transition to another application.
 
-Last updated 05/21/2023 3:19 AM CST
+Last updated 05/21/2023 3:37 AM CST
